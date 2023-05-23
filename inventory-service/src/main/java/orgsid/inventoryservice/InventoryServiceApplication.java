@@ -1,5 +1,6 @@
 package orgsid.inventoryservice;
 
+import jakarta.persistence.Entity;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -10,4 +11,13 @@ public class InventoryServiceApplication {
 		SpringApplication.run(InventoryServiceApplication.class, args);
 	}
 
+}
+
+@Entity
+
+class Product {
+	private  Long id;
+	private String name;
+	private double price;
+	private double quantity;
 }
