@@ -10,3 +10,7 @@ Mise en oeuvre d'une architecture micro-service
 
 ![db5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/619ecd2c-1a57-4418-8e24-447f3c263cb8)
 
+
+![products5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/071e28be-fa77-4260-a76a-128ed9b66171)
+
+![customers5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/75fe5201-12fc-4f65-8e2e-4f33ab43d0b7)
