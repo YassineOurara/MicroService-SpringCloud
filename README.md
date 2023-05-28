@@ -1,7 +1,7 @@
 # MicroService-SpringCloud
 Mise en oeuvre d'une architecture micro-service
 
-      1.Créer le micro service Customer-service
+      1. Créer le micro service Customer-service
 
 ![springinittp5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/309d7155-4d8d-46b4-b649-75830c7271df)
 
@@ -13,11 +13,39 @@ Mise en oeuvre d'une architecture micro-service
 
 ![db5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/619ecd2c-1a57-4418-8e24-447f3c263cb8)
 
-        2.Créer le micro service Inventory-service
+        2. Créer le micro service Inventory-service
 
 ![products5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/071e28be-fa77-4260-a76a-128ed9b66171)
 
 
-        3.Créer la Gateway service en utilisant Spring Cloud Gateway
+        3. Créer la Gateway service en utilisant Spring Cloud Gateway
         Static routes configuration with Spring Cloud Gateway using "application.yml"
+       
+![gateway](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/840da761-16e9-496b-b6e2-398641eec966)
 
+         Static routes configuration with Spring Cloud Gateway using Java Config Class
+                  
+![gateway2](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/6b065d69-5ce6-4b56-8c8d-6dd7007680b9)
+
+          4. Créer l’annuaire Registry Service basé sur NetFlix Eureka Server
+![eureka](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/b10e3eaa-592d-4809-9a84-16a847768e02)
+
+            Static routes configuration with Discovery Service
+                     
+                    
+![eurekastatic](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/77a9b05e-25b6-4d45-a0e0-01a6ae1b50d2)
+
+
+            5.Dynamic routes configuration with Discovery Service
+            
+ ![eurekadynamic](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/f42b706c-a01d-4764-8b48-1514a8be8fa0)
+
+            6. Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service
+            
+            
+            
+            
+            
+
+
+            
