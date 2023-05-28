@@ -42,8 +42,9 @@ Mise en oeuvre d'une architecture micro-service
 
             6. Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service
             
-            
-            
+ ![billing](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/4f017c1c-f57b-4ee9-a714-acdacc9e61c8)
+
+            7. Créer un client Angular qui permet d’afficher une facture
             
             
 
