@@ -1,5 +1,8 @@
 # MicroService-SpringCloud
 Mise en oeuvre d'une architecture micro-service
+
+      1.Créer le micro service Customer-service
+
 ![springinittp5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/309d7155-4d8d-46b4-b649-75830c7271df)
 
 
@@ -10,6 +13,7 @@ Mise en oeuvre d'une architecture micro-service
 
 ![db5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/619ecd2c-1a57-4418-8e24-447f3c263cb8)
 
+        2.Créer le micro service Inventory-service
 
 ![products5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/071e28be-fa77-4260-a76a-128ed9b66171)
 
