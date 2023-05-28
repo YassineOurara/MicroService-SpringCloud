@@ -33,7 +33,7 @@ public class BillingServiceApplication {
 			Customer customer= customerRestClient.getCustomerById(1L);
 			Bill bill1 = billRepository.save(new Bill(null, new Date(),null,customer.getId(),null));
 			PagedModel<Product> productPagedModel=productItemRestClient.pageProducts();
-			productPagedModel.forEach(p->{
+			productPagedModel.forEach( p->{
 				ProductItem productItem=new ProductItem();
 				productItem. setPrice(p.getPrice( ));
 				productItem.setQuantity (1+new Random().nextInt(100));
