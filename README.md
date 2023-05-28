@@ -1,5 +1,8 @@
 # MicroService-SpringCloud
 Mise en oeuvre d'une architecture micro-service
+
+      1.Créer le micro service Customer-service
+
 ![springinittp5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/309d7155-4d8d-46b4-b649-75830c7271df)
 
 
@@ -10,7 +13,11 @@ Mise en oeuvre d'une architecture micro-service
 
 ![db5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/619ecd2c-1a57-4418-8e24-447f3c263cb8)
 
+        2.Créer le micro service Inventory-service
 
 ![products5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/071e28be-fa77-4260-a76a-128ed9b66171)
 
-![customers5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/75fe5201-12fc-4f65-8e2e-4f33ab43d0b7)
+
+        3.Créer la Gateway service en utilisant Spring Cloud Gateway
+        Static routes configuration with Spring Cloud Gateway using "application.yml"
+
