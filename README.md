@@ -17,4 +17,8 @@ Mise en oeuvre d'une architecture micro-service
 
 ![products5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/071e28be-fa77-4260-a76a-128ed9b66171)
 
+
+        3.Créer la Gateway service en utilisant Spring Cloud Gateway
+        Static routes configuration with Spring Cloud Gateway using "application.yml"
+
 ![customers5](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/75fe5201-12fc-4f65-8e2e-4f33ab43d0b7)
