@@ -46,7 +46,6 @@ Mise en oeuvre d'une architecture micro-service
 
             7. Créer un client Angular qui permet d’afficher une facture
             
-            
+![productAngular](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/0e4698d6-bee2-4a89-932b-33809df91ffc)
+![customerAngular](https://github.com/YassineOurara/MicroService-SpringCloud/assets/101317995/5445e38d-a005-474d-9f0d-c2092805d5ba)
 
-
-            
