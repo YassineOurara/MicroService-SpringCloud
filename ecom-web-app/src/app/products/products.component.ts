@@ -1,5 +1,5 @@
 import { Component , OnInit} from '@angular/core';
-import {HttpClient, HttpClientModule} from "@angular/common/http";
+import {HttpClient} from "@angular/common/http";
 
 @Component({
   selector: 'app-products',
@@ -13,8 +13,9 @@ export class ProductsComponent implements  OnInit{
   }
 
   ngOnInit() {
-    this.http.get("http://localhost:1818/PRODUCT-SERVICE/products").subscribe({
-      next : (data )=>{
+    this.http.get("http://localhost:1818/PRODUCT-SERVICE/products?projection=fullProduct")
+      .subscribe({
+      next : (data)=>{
         this.products = data;
       },
       error :(err)=>{}
